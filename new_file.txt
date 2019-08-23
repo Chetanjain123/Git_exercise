@@ -1,1 +1,3 @@
-Creating the new file in git exercise repository 
+Creating the new file in git exercise repository
+
+updating the file
